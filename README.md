@@ -6,8 +6,9 @@ I have compared the performance of CNN and LSTM models on varied size datasets. 
 * [IMDB Movie Review dataset](https://drive.google.com/drive/folders/1WAnbcaLaqVYeMrPy4hFkJHVF8t6yRNvZ?usp=sharing).
 
 ## Prerequisites
-
-* Numpy
-* Pandas
-* Matplotlib
-* Keras
+```
+Numpy
+Pandas
+Matplotlib
+Keras
+```
