@@ -7,8 +7,8 @@ I have compared the performance of CNN and LSTM models on varied size datasets. 
 
 ## Prerequisites
 ```
-Numpy
-Pandas
-Matplotlib
-Keras
+numpy
+pandas
+matplotlib
+keras
 ```
