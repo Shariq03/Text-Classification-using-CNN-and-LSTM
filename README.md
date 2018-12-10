@@ -5,7 +5,6 @@ I have compared the performance of CNN and LSTM models on varied size datasets. 
 * [Drugs Review dataset](https://drive.google.com/drive/folders/1VjZ7a52Xr6N99JCr5GsFiBLCk_ocPnoh?usp=sharing)
 * [IMDB Movie Review dataset](https://drive.google.com/drive/folders/1WAnbcaLaqVYeMrPy4hFkJHVF8t6yRNvZ?usp=sharing).
 
-![alt tag](https://drive.google.com/file/d/1VLlsYACywYTzWJr0DwYtkPTHQUDlLTgp/view?usp=sharing)
 
 ## Prerequisites
 ```
